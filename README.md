@@ -26,7 +26,12 @@
 
 <br/>
 
-<img scr="https://github-readme-stats.vercel.app/api?username=goldy1987&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="awesome-github-profile-readme-git-master.goldy1987.vercel.app" />
+
+</details>
 
 <br/>
 <br/>
