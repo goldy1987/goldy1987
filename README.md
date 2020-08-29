@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ...Random Forest ML model
+- 🔭 I’m currently working on ...Ensemble Techniques
 - 🌱 I’m currently learning ...Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on ...Studying
 - 🤔 I’m looking for help with ...Data Science
