@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ...Ensemble Techniques
+- 🔭 I’m currently working on ...Oil n Gas Project
 - 🌱 I’m currently learning ...Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on ...Studying
 - 🤔 I’m looking for help with ...Data Science
